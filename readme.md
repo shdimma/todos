@@ -9,7 +9,7 @@ GET /v1/todos
 '''json  
 [
     {
-        "id": 2
+        "id": 1
         "content": "(A) Do it."
     },
     // ...

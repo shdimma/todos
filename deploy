@@ -1,6 +1,6 @@
 #!/bin/bash
 echo Deploing...
 
-sudo cp src/index.php /var/www/html/index.php
+sudo cp src/index.php /var/www/html8080/index.php
 
 echo Deployed.
